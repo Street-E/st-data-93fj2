@@ -1,0 +1,36 @@
+[
+  {
+    "Id": "67db14b3e5b8c8975680dbbb",
+    "Make": "Seat",
+    "Model": "Leon 2.0 TDI",
+    "Year": "2011",
+    "Transmission": "Manual",
+    "TransmissionType": "2x2",
+    "EngineType": "Gasoil",
+    "SeatingCapacity": "5",
+    "Doors": "5",
+    "Price": "6000 CHF",
+    "IsAvailable": "Yes",
+    "Location": "Street-e",
+    "HasAC": "Yes",
+    "Description": "SEAT Leon 2.0 TDI",
+    "IsForRent": false
+  },
+  {
+    "Id": "67db17f4ee3899adb965f090",
+    "Make": "Mini",
+    "Model": "One",
+    "Year": "2012",
+    "Transmission": "Manual",
+    "TransmissionType": "2x2",
+    "EngineType": "Gasoil",
+    "SeatingCapacity": "5",
+    "Doors": "5",
+    "Price": "7500 CHF",
+    "IsAvailable": "Yes",
+    "Location": "Street-e",
+    "HasAC": "Yes",
+    "Description": "MINI One",
+    "IsForRent": false
+  }
+]
