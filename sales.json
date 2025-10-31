@@ -34,20 +34,20 @@
     "IsForRent": false
   },
   {
-    "Id": "67a86ef001adfbbfa3731bcb",
+    "Id": "6904d037c971b59c81a14d1e",
     "Make": "Fiat",
-    "Model": "500L 1.3 MJ 16V",
+    "Model": "500 Abarth"
     "Year": "2018",
     "Transmission": "Automatic",
     "TransmissionType": "2x2",
-    "EngineType": "Diesel",
-    "SeatingCapacity": "5",
+    "EngineType": "Benzina",
+    "SeatingCapacity": "4",
     "Doors": "5",
-    "Price": "8500 CHF",
+    "Price": "13500 CHF",
     "IsAvailable": "Yes",
     "Location": "Street-e",
     "HasAC": "Yes",
-    "Description": "FIAT 500L 1.3 MJ 16V",
+    "Description": "FIAT 500 Abarth",
     "IsForRent": false
   }
 ]
